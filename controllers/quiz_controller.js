@@ -19,5 +19,5 @@ else
 
 exports.author = function (req, res){
 
-res.render('creditos/author',{author: 'Laura'});
+res.render('creditos/author',{author: 'Jotace'});
 };
